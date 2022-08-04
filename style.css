@@ -1,0 +1,26 @@
+h1 {
+    width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.mm {
+    color: white;
+    background-color: rgb(29, 29, 167);
+    padding: 0px;
+}
+
+.oo {
+    color: rgba(9, 9, 158, 0.801);
+    text-align: center;
+}
+
+.nossa {
+    margin: 5px;
+    padding: 10px;
+    border-style:dotted ;
+    border-color: rgb(255, 0, 0);
+}
+#alunos {
+    color: chartreuse;
+}
